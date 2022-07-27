@@ -1,5 +1,5 @@
 # Doki Doki Literature Club: Monika After Story: Switch language
-You can find the mod here: https://github.com/Monika-After-Story/MonikaModDev.
+You can find the original mod (DDLC: MAS) here: https://github.com/Monika-After-Story/MonikaModDev.
 ## Features:
 This submod create a setting option for change language, in submod category, with every language translation avalaible found in game\tl folder.
 
